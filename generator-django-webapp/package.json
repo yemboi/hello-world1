@@ -1,5 +1,5 @@
 {
-  "name": "generator-django-webapp",
+  "name": "genera-django-webapp",
   "version": "0.4.8-0.1.1",
   "description": "Scaffold out a Django web app with front-end support",
   "license": "BSD",
